@@ -1,0 +1,1 @@
+[{'id': 20200000, 'name': 'Nguyen Van Anh', 'score': {'math': 7.8, 'english': 8.4, 'physics': 8.0}}, {'id': 20209991, 'name': 'Tran Van Binh', 'score': {'math': 9.5, 'english': 7.4, 'physics': 8.6}}, {'id': 20201234, 'name': 'Le Van Cuong', 'score': {'math': 8, 'english': 9, 'physics': 8.2}}]
